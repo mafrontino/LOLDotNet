@@ -1,0 +1,7 @@
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\bin\Debug\LeagueDataModel.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\bin\Debug\LeagueDataModel.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\obj\Debug\LeagueDataModel.csprojResolveAssemblyReference.cache
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\obj\Debug\LOLDotNet.LeagueDataModel.Properties.Resources.resources
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\obj\Debug\LeagueDataModel.csproj.GenerateResource.Cache
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\obj\Debug\LeagueDataModel.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueDataModel\obj\Debug\LeagueDataModel.pdb

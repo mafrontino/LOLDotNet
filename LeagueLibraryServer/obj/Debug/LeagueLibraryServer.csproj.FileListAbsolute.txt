@@ -1,0 +1,10 @@
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueLibraryServer.dll.config
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueLibraryServer.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueLibraryServer.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueDataAccess.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueDataModel.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueDataAccess.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\bin\Debug\LeagueDataModel.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\obj\Debug\LeagueLibraryServer.csprojResolveAssemblyReference.cache
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\obj\Debug\LeagueLibraryServer.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryServer\obj\Debug\LeagueLibraryServer.pdb

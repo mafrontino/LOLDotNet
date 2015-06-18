@@ -1,0 +1,15 @@
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueLibraryClient.exe.config
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueLibraryClient.exe
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueLibraryClient.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueDataModel.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueLibraryServer.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueDataAccess.dll
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueLibraryServer.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueDataModel.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\bin\Debug\LeagueDataAccess.pdb
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LeagueLibraryClient.csprojResolveAssemblyReference.cache
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LOLDotNet.LeagueLibraryClient.LeagueLibraryDashboard.resources
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LOLDotNet.LeagueLibraryClient.Properties.Resources.resources
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LeagueLibraryClient.csproj.GenerateResource.Cache
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LeagueLibraryClient.exe
+G:\Users\mfrontino\Documents\Visual Studio 2013\Projects\LOL.NET\LeagueLibraryClient\obj\Debug\LeagueLibraryClient.pdb
